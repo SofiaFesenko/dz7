@@ -1,0 +1,55 @@
+body {
+    margin: 0;
+}
+
+.card {
+    width: 500px;
+    box-shadow: rgba(0, 0, 0, 0.02) 0px 1px 3px 0px, rgba(27, 31, 35, 0.15) 0px 0px 0px 1px;
+    margin: auto;
+}
+
+.picture {
+    width: 500px;
+}
+
+.block2 {
+    padding: 15px 15px 30px 15px;
+    width: 500px;
+    box-sizing: border-box;
+}
+
+.name {
+    font-family: 'Source Sans Pro';
+    margin: 0;
+    color: #2f3336;
+    margin-bottom: 10px;
+}
+
+.spann {
+    font-family: 'Source Sans Pro';
+    color: #e5415d;
+    font-size: 18px;
+    font-weight:500;
+    margin-bottom: 8px;
+}
+
+.paragraph {
+    margin: 0;
+    font-family: 'Source Sans Pro';
+    color: #5e3848;
+    font-size: 18px;
+    font-weight:500;
+    margin-bottom: 30px;
+}
+
+.link {
+    text-decoration: none;
+    font-family: 'Source Sans Pro';
+    padding: 10px;
+    background-color: #ffc107;
+    color: #f8f7f5;
+}
+
+.link:hover {
+    background-color: #ce9b03;
+}
